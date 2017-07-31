@@ -1,2 +1,2 @@
 # Processing
-Learning and experimentations with processing, a visual java based language
+Learning and experimenting with processing, a visual java based language.
