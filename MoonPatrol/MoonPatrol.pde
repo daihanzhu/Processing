@@ -1,5 +1,4 @@
 // Daihan Zhu
-// 20643647
 
 PShape car; 
 
