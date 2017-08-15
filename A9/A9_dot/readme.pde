@@ -22,10 +22,4 @@ other parts of the code, for example, some part of it slows down, and its intent
 part of the idea of the game. I think overall it is very simple idea and design, but the
 organizations of the code is well done in my opinion. 
 
-
-RELEASE
-I <Daihan Zhu> grant permission to CS 105 course staff to use
-my Assignment 9 program and video for the purpose of promoting CS 105.
-(if you don't grant permission, erase the line above)
-
 */
